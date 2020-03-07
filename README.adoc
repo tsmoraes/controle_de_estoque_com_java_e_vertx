@@ -1,3 +1,6 @@
+# API Rest com Vert.x
+  Aplicação web reativa e assíncrona para fazer cadastro de produtos com todas as funções básicas de um CRUD
+
 = Starter
 
 image:https://img.shields.io/badge/vert.x-3.8.5-purple.svg[link="https://vertx.io"]
